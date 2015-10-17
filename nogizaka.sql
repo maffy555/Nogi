@@ -1,0 +1,26 @@
+CREATE TABLE image(
+	id INTEGER PRIMARY KEY,
+	articleURL TEXT,
+	origURL TEXT,
+	memberID INTEGER,
+	filename TEXT
+);
+
+CREATE TABLE member(
+	id INTEGER PRIMARY KEY,
+	name TEXT,
+	blogURL TEXT
+);
+
+CREATE TABLE withPerson(
+	id INTEGER PRIMARY KEY,
+	imageID INTEGER,
+	personID INTEGER
+);
+
+CREATE TABLE article(
+	id INTEGER PRIMARY KEY,
+	URL TEXT,
+	lastUpdate TEXT,
+	memberID INTEGER
+);
