@@ -1,0 +1,149 @@
+p   akonadi-backend-sqlite          - SQLite storage backend for Akonadi        
+p   aolserver4-nssqlite3            - AOLserver 4 module: module for accessing S
+p   bacula-common-sqlite3           - network backup service - SQLite v3 common 
+p   bacula-common-sqlite3-dbg       - network backup service - SQLite v3 common 
+p   bacula-director-sqlite3         - network backup service - SQLite 3 storage 
+p   bacula-director-sqlite3-dbg     - network backup service - SQLite 3 storage 
+p   bacula-sd-sqlite3               - network backup service - SQLite 3 SD tools
+p   bacula-sd-sqlite3-dbg           - network backup service - SQLite 3 SD tools
+p   bogofilter-sqlite               - fast Bayesian spam filter (sqlite)        
+p   cl-sql-sqlite                   - CLSQL database backend, SQLite            
+p   cl-sql-sqlite3                  - CLSQL database backend, SQLite3           
+p   dovecot-sqlite                  - secure POP3/IMAP server - SQLite support  
+p   falconpl-dbi-sqlite3            - SQLite3 database abstraction for Falcon P.
+p   gambas3-gb-db-sqlite3           - Gambas sqlite3 driver database component  
+p   gnustep-dl2-sqlite-adaptor      - gnustep-dl2 adaptor to connect to SQLite  
+p   golang-gosqlite-dev             - Trivial sqlite3 binding for Go (developmen
+v   haskell-hdbc-sqlite3-doc        -                                           
+v   haskell-hsql-sqlite3-doc        -                                           
+p   kamailio-sqlite-modules         - SQLite database connectivity module for Ka
+i A libaprutil1-dbd-sqlite3         - Apache Portable Runtime Utility Library - 
+p   libclass-dbi-sqlite-perl        - extension to Class::DBI for sqlite        
+p   libcpan-sqlite-perl             - module to maintain a minimal CPAN database
+p   libdatetime-format-sqlite-perl  - module to parse and format SQLite dates an
+p   libdbd-sqlite2-perl             - Perl DBI driver with a self-contained RDBM
+p   libdbd-sqlite3                  - SQLite3 database driver for libdbi        
+p   libdbd-sqlite3-perl             - Perl DBI driver with a self-contained RDBM
+p   libdspam7-drv-sqlite3           - sqlite3 backend for DSPAM anti-spam filter
+p   libedasqlite0                   - EDA SQLite Driver                         
+p   libghc-haskelldb-hdbc-sqlite3-d - HaskellDB support for the HDBC SQLite driv
+v   libghc-haskelldb-hdbc-sqlite3-d -                                           
+p   libghc-haskelldb-hdbc-sqlite3-d - HaskellDB support for the HDBC SQLite driv
+p   libghc-haskelldb-hdbc-sqlite3-p - HaskellDB support for the HDBC SQLite driv
+v   libghc-haskelldb-hdbc-sqlite3-p -                                           
+p   libghc-hdbc-sqlite3-dev         - Sqlite v3 HDBC (Haskell Database Connectiv
+v   libghc-hdbc-sqlite3-dev-2.3.3.0 -                                           
+p   libghc-hdbc-sqlite3-doc         - Sqlite v3 HDBC (Haskell Database Connectiv
+p   libghc-hdbc-sqlite3-prof        - Sqlite v3 HDBC Driver for GHC; profiling l
+v   libghc-hdbc-sqlite3-prof-2.3.3. -                                           
+p   libghc-hsql-sqlite3-dev         - SQLite driver of the HSQL library for GHC 
+v   libghc-hsql-sqlite3-dev-1.8.2-0 -                                           
+p   libghc-hsql-sqlite3-doc         - API documentation of the hsql-sqlite3 libr
+p   libghc-hsql-sqlite3-prof        - SQLite driver of the HSQL profiling librar
+v   libghc-hsql-sqlite3-prof-1.8.2- -                                           
+p   libghc-persistent-sqlite-dev    - SQLite3 backend for the persistent library
+v   libghc-persistent-sqlite-dev-1. -                                           
+p   libghc-persistent-sqlite-doc    - SQLite3 backend for the persistent library
+p   libghc-persistent-sqlite-prof   - SQLite3 backend for the persistent library
+v   libghc-persistent-sqlite-prof-1 -                                           
+p   libgnadesqlite3-2               - GNat Ada Database Environment - SQLite3 in
+p   libgnadesqlite3-2-dev           - GNat Ada Database Environment - SQLite3 pr
+p   libgnadesqlite3-dbg             - GNat Ada Database Environment - SQLite3 de
+p   libkaya-sqlite3-dev             - SQLite binding for kaya                   
+p   libmono-sqlite2.0-cil           - Mono Sqlite library (for CLI 2.0)         
+p   libmono-sqlite4.0-cil           - Mono Sqlite library (for CLI 4.0)         
+p   libopendbx1-sqlite              - SQLite backend for OpenDBX                
+p   libopendbx1-sqlite3             - SQLite3 backend for OpenDBX               
+p   libpocosqlite9                  - C++ Portable Components (POCO) SQLite libr
+p   libpocosqlite9-dbg              - C++ Portable Components (POCO) SQLite libr
+p   libqof2-backend-sqlite          - Query Object Framework - SQLite backend mo
+p   libqt4-sql-sqlite               - Qt 4 SQLite 3 database driver             
+p   libqt5sql5-sqlite               - Qt 5 SQLite 3 database driver             
+p   librdf-storage-sqlite           - RDF library, SQLite backend               
+v   libsqlite-dev                   -                                           
+p   libsqlite-tcl                   - SQLite Tcl bindings                       
+p   libsqlite0                      - SQLite shared library                     
+p   libsqlite0-dev                  - SQLite development files                  
+i   libsqlite3-0                    - SQLite 3 shared library                   
+p   libsqlite3-0-dbg                - SQLite 3 debugging symbols                
+p   libsqlite3-dev                  - SQLite 3 development files                
+p   libsqlite3-gst                  - SQLite bindings for GNU Smalltalk         
+p   libsqlite3-mod-blobtoxy         - SQLite3 extension module for read-only BLO
+p   libsqlite3-mod-csvtable         - SQLite3 extension module for read-only acc
+p   libsqlite3-mod-impexp           - SQLite3 extension module for SQL script, X
+p   libsqlite3-mod-xpath            - SQLite3 extension module for querying XML 
+p   libsqlite3-mod-zipfile          - SQLite3 extension module for read-only acc
+p   libsqlite3-ocaml                - Embeddable SQL Database for OCaml Programs
+p   libsqlite3-ocaml-dev            - Embeddable SQL Database for OCaml Programs
+v   libsqlite3-ocaml-dev-xle92      -                                           
+v   libsqlite3-ocaml-xle92          -                                           
+p   libsqlite3-tcl                  - SQLite 3 Tcl bindings                     
+p   libsqliteodbc                   - ODBC driver for SQLite embedded database  
+p   libvsqlitepp-dev                - SQLite3 Wrapper for C++ -- development fil
+p   libvsqlitepp-doc                - SQLite3 Wrapper for C++ -- API documentati
+p   libvsqlitepp3                   - SQLite3 Wrapper for C++                   
+p   libwtdbosqlite-dev              - sqlite3 backend for Wt::Dbo [development] 
+p   libwtdbosqlite35                - sqlite3 backend for Wt::Dbo [runtime]     
+p   libwxsqlite3-2.8-0              - SQLite3 C++ wrapper for use in programs ba
+p   libwxsqlite3-2.8-dev            - Development files for wxSQLite3           
+p   lua-dbi-sqlite3                 - DBI library for the Lua language, sqlite3 
+p   lua-dbi-sqlite3-dbg             - DBI library for the Lua language, sqlite3 
+p   lua-dbi-sqlite3-dev             - DBI library for the Lua language, sqlite3 
+p   lua-sql-sqlite3                 - luasql library for the Lua language       
+p   lua-sql-sqlite3-dev             - luasql development files for the Lua langu
+v   lua5.1-dbi-sqlite3              -                                           
+v   lua5.1-dbi-sqlite3-dev          -                                           
+v   lua5.1-sql-sqlite3              -                                           
+v   lua5.1-sql-sqlite3-dev          -                                           
+v   lua5.2-sql-sqlite3              -                                           
+v   lua5.2-sql-sqlite3-dev          -                                           
+p   node-sqlite3                    - asynchronous, non-blocking SQLite3 binding
+p   opendnssec-dbg-sqlite3          - Debug symbols for OpenDNSSEC (Enforcer wit
+p   opendnssec-enforcer-sqlite3     - tool to prepare DNSSEC keys (sqlite3 backe
+v   owncloud-sqlite                 -                                           
+p   pdns-backend-sqlite3            - sqlite 3 backend for PowerDNS             
+p   php5-sqlite                     - SQLite module for php5                    
+p   pike7.8-sqlite                  - SQLite module for Pike                    
+p   postfix-cluebringer-sqlite3     - metapackage for sqlite3 support in postfix
+p   proftpd-mod-sqlite              - Versatile, virtual-hosting FTP daemon - SQ
+p   python-pysqlite2                - Python interface to SQLite 3              
+p   python-pysqlite2-dbg            - Python interface to SQLite 3 (debug extens
+p   python-pysqlite2-doc            - Documentation for python-pysqlite2        
+p   python-sqlite                   - Python interface to SQLite 2              
+p   python-sqlite-dbg               - Python interface to SQLite 2 (debug extens
+p   python-sqlitecachec             - Fast metadata parser for yum              
+p   python-withsqlite               - uses an sqlite db as a back end for a dict
+v   python2.7-pysqlite2             -                                           
+v   python2.7-sqlite                -                                           
+v   python2.7-sqlitecachec          -                                           
+v   qof-backend-sqlite              -                                           
+p   r-cran-rsqlite                  - Database Interface R driver for SQLite    
+p   ratbox-services-sqlite          - IRC services for use with ircd-ratbox with
+p   redmine-sqlite                  - metapackage providing sqlite dependencies 
+p   roundcube-sqlite3               - metapackage providing SQLite dependencies 
+p   rt4-db-sqlite                   - SQLite database backend for request-tracke
+p   ruby-dataobjects-sqlite3        - SQLite adapter for ruby-dataobjects       
+p   ruby-dbd-sqlite3                - Ruby/DBI SQLite3 driver                   
+p   ruby-sqlite3                    - SQLite3 interface for Ruby                
+p   shinken-module-broker-livestatu - Shinken Sqlite logstore for LiveStatus bro
+p   shinken-module-broker-webui-sql - Shinken Sqlite storage module for WebUI br
+p   sisu-sqlite                     - SiSU dependencies for use with SQLite data
+p   slang-sqlite                    - S-Lang bindings to the sqlite3 database li
+p   spl-sqlite                      - SPL Programming Language -- sqlite adapter
+p   sqlite                          - command line interface for SQLite         
+p   sqlite-doc                      - SQLite documentation                      
+p   sqlite3                         - Command line interface for SQLite 3       
+p   sqlite3-doc                     - SQLite 3 documentation                    
+p   sqlite3-pcre                    - Perl-compatible regular expression support
+p   sqlitebrowser                   - GUI editor for SQLite databases           
+p   sqliteman                       - GUI tool for SQLite3 admin and developers 
+p   sqliteman-doc                   - GUI tool for SQLite3 admin and developers 
+p   strongswan-plugin-sqlite        - strongSwan plugin for SQLite              
+p   tcl8.6-tdbc-sqlite3             - Tcl Database Connectivity                 
+p   tntdb-sqlite4                   - SQLite backend for tntdb database access l
+p   ulogd-sqlite3                   - transitional dummy package for ulogd2-sqli
+p   ulogd2-sqlite3                  - SQLite 3 extension to ulogd               
+p   uwsgi-plugin-sqlite3            - sqlite3 configurations plugin for uWSGI   
+p   wxsqlite3-2.8-dbg               - Debugging symbols for wxSQLite3 2.8       
+p   wxsqlite3-doc                   - Documentation files for wxSQLite3         
+p   zabbix-proxy-sqlite3            - network monitoring solution - proxy (using

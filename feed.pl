@@ -9,7 +9,7 @@ use URI;
 use DateTime::Format::W3CDTF;
 binmode STDOUT, ':encoding(cp932)';
 
-use lib '.\lib';
+use lib './lib';
 use Nogizaka::Schema;
 
 use Member;
@@ -58,7 +58,8 @@ for my $entry ($feed->entries){
 	die "died by stop.txt == 1" if($line =~ /1/);
 
 	$c++;
-	if($c == 30){
-	last;
-}
+	#if($c == 32){
+	if(0){
+		last;
+	}
 }

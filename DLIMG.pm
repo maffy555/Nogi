@@ -6,7 +6,7 @@ use warnings;
 use File::Temp 'tempfile';
 use WWW::Mechanize;
 
-use lib '.\lib';
+use lib './lib';
 use Nogizaka::Schema;
 
 #getimg("", 1, "", 10);
@@ -35,12 +35,17 @@ sub getimg{
 		$mech->get($url);	
 	}
 	#デフォの挙動でファイルは削除されません。消したいときはUNLINK => 1
-	my $tmp = File::Temp->new(DIR => '.\\image', SUFFIX => '.jpg', UNLINK=> 0);
-	print $tmp->filename;
+	### windows ###
+	#my $tmp = File::Temp->new(DIR => '.\\image', SUFFIX => '.jpg', UNLINK=> 0);
+	### Linux ###
+	my $tmp = File::Temp->new(DIR => './image', SUFFIX => '.jpg', UNLINK=> 0);
+	print $tmp->filename."\n";
 	$mech->save_content($tmp->filename);
 
 	### windows ###
-	my @fnames = split(/\\/, $tmp->filename);
+	#my @fnames = split(/\\/, $tmp->filename);
+	### Linux ###
+	my @fnames = split(/\//, $tmp->filename);
 
 	#tableがimageでも、source名はImageになるので注意
 	#source名はschema.pmのdebug => 1にして確認のこと
